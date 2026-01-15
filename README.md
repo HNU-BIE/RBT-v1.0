@@ -4,3 +4,13 @@ The rabbit is a critical bridge species in translational neuroscience, offering 
 
 By integrating 5.0 T in vivo MRI, 9.4 T ex vivo MRI, and micro-CT, we provide a multimodal, population-averaged template that captures native anatomical states, overcoming the tissue deformation common in legacy ex vivo models.
 <img width="1998" height="2099" alt="图片1" src="https://github.com/user-attachments/assets/83cf5dc1-a312-4664-9522-52048553cbb9" />
+✨ Key Features
+High-Resolution Template: A population-averaged in vivo template providing a superior stereotaxic framework.
+
+Fine-Grained Parcellation: 107 manually segmented regions across the cortex, white matter, and subcortical structures (including a fully differentiated striatum).
+
+Multimodal Integration: Synergistic use of multi-contrast priors from 5.0T/9.4T MRI and micro-CT.
+
+Automated Pipeline: A deep learning-based tool for fully automated whole-brain segmentation without manual preprocessing.
+
+Translational Advantage: A platform optimized for longitudinal awake functional imaging and disease modeling.
