@@ -9,8 +9,6 @@ By integrating 5.0 T in vivo MRI, 9.4 T ex vivo MRI, and micro-CT, we provide a 
 
 **Fine-Grained Parcellation:** 107 manually segmented regions across the cortex, white matter, and subcortical structures (including a fully differentiated striatum).
 
-**Multimodal Integration:** Synergistic use of multi-contrast priors from 5.0T/9.4T MRI and micro-CT.
+**Multimodal Integration:** Multi-contrast priors from 5.0T/9.4T MRI and micro-CT.
 
 **Automated Pipeline:** A deep learning-based tool for fully automated whole-brain segmentation without manual preprocessing.
-
-**Translational Advantage:** A platform optimized for longitudinal awake functional imaging and disease modeling.
