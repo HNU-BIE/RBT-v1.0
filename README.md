@@ -16,3 +16,5 @@ Multi-contrast priors from 5.0T/9.4T MRI and micro-CT.
 
 **Automated Pipeline:** 
 A deep learning-based tool for fully automated whole-brain segmentation without manual preprocessing.
+# 🚀 Data Access
+**Template & Atlas:**
