@@ -8,10 +8,13 @@ By integrating 5.0 T in vivo MRI, 9.4 T ex vivo MRI, and micro-CT, we provide a 
 
 # ✨ Key Features
 **High-Resolution Template:** 
-A population-averaged in vivo template providing a superior stereotaxic framework.
+A population-averaged in vivo template providing a superior stereotaxic framework for rabbit neuroimaging.
 
 **Fine-Grained Parcellation:** 
 107 manually segmented regions across the cortex, white matter, and subcortical structures (including a fully differentiated striatum).
+
+**Dual Coordinate Systems:**
+A versatile stereotaxic framework supporting both AC-PC (Anterior/Posterior Commissure) and Bregma-Lambda coordinate systems, facilitating seamless translation between clinical neuroimaging and experimental stereotaxic surgery.
 
 **Multimodal Integration:** 
 Multi-contrast priors from 5.0T/9.4T MRI and micro-CT.
