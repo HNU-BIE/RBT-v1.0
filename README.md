@@ -4,6 +4,8 @@ The rabbit is a critical bridge species in translational neuroscience, offering 
 
 By integrating 5.0 T in vivo MRI, 9.4 T ex vivo MRI, and micro-CT, we provide a multimodal, population-averaged template that captures native anatomical states, overcoming the tissue deformation common in legacy ex vivo models.
 <img width="1998" height="2099" alt="图片1" src="https://github.com/user-attachments/assets/83cf5dc1-a312-4664-9522-52048553cbb9" />
+[Figure2.tif](https://github.com/user-attachments/files/26743079/Figure2.tif)
+
 # ✨ Key Features
 **High-Resolution Template:** 
 A population-averaged in vivo template providing a superior stereotaxic framework.
